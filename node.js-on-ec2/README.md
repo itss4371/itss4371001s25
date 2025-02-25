@@ -1,9 +1,3 @@
-# Node Hello World
-
-Simple node.js app that servers "A Monk in Cloud"
-
-Great for testing simple deployments on Cloud
-
 ## Step 1: Install NodeJS and NPM using nvm
 Install node version manager (nvm) by typing the following at the command line.
 
